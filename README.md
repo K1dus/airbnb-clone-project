@@ -95,3 +95,48 @@ Foster a collaborative and productive team environment.
 Coach the team on Agile principles and practices.
 Ensure continuous improvement within the team.
 These roles are essential for the success of a software development project. Clear communication and collaboration among team members ensure that the project is completed on time, within budget, and meets the desired quality standards.
+
+
+### UI Component Patterns
+
+#### Overview
+As the AirBnB Clone project involves creating a user-friendly and engaging interface, we will focus on building reusable UI components. These components will be designed to maintain consistency across the application, making it easier to manage and maintain.
+
+#### Components
+
+##### 1. Navbar
+
+Description: A navigation bar that displays the application's logo, navigation links, and search functionality.
+
+Goals:
+- Provide a consistent user interface across the application.
+- Allow users to navigate between key sections of the application.
+
+Features:
+- Responsive design to adapt to various screen sizes.
+Search functionality for quick property search.
+
+##### 2. Property Card
+
+Description: A card that displays essential information about a property, including images, title, description, and price.
+
+Goals:
+Showcase properties in an attractive and informative way.
+Provide users with a clear view of property details.
+
+Features:
+Responsive design to adapt to various screen sizes.
+Clickable property images that open a detailed view.
+Rating system to help users compare properties.
+##### 3. Footer
+
+Description: A section that contains copyright information, contact details, and social media links.
+
+Goals:
+- Maintain a consistent user interface across the application.
+- Provide users with contact information and a way to engage with the application.
+
+Features:
+Responsive design to adapt to various screen sizes.
+Contact information, including email and phone number.
+Social media links for users to follow the application.
